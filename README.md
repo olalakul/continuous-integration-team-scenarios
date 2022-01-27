@@ -5,3 +5,6 @@ This a template repository for GitHub Learning Lab course [Common Continuous Int
 Noticed and error or have an idea how to improve the course? Do create an issue in the [course repository](https://github.com/ntaranov/continuous-integration-team-scenarios-course). Please note that [course repository](https://github.com/ntaranov/continuous-integration-team-scenarios-course) is different from this one, being the template repository.  
 ## License
 The course is licensed under [CC-BY-4.0](https://github.com/ntaranov/continuous-integration-team-scenarios-course/blob/master/LICENSE) (c) Nick Taranov  
+
+## I am a participant 
+of this course. I am stuck at step 7 "Resolve the merge conflict " waiting for the merge to be permitted
